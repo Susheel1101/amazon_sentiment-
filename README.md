@@ -1,4 +1,5 @@
 # Sentiment Analysis of Amazon Product Reviews Using Machine Learning at Scale
+Name - Susheel Srikanth, Sankhya Sivakumar
 
 ---
 
