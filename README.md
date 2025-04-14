@@ -175,7 +175,7 @@ Final evaluation results visualized using confusion matrices:
 sentiment-analysis-amazon/
 │
 ├── README.md
-├── replication_guide.md
+├── instructions.pdf
 │
 ├── notebooks/
 │   ├── 0_download_dataset.ipynb
